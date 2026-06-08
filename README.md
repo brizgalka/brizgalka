@@ -1,5 +1,7 @@
 ## Greetings 👋
 
+Welcome to my GitHub account.
+
 <!--
 **brizgalka/brizgalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
